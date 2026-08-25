@@ -11,4 +11,4 @@
   <li>All gameplay state lives only in the device's volatile memory during a match.</li>
 </ul>
 <p>Contact: Spongy@Mwah333.com</p>
-</body></html>
+</body>
